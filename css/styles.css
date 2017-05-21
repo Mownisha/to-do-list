@@ -1,0 +1,21 @@
+#accomplished {
+  list-style: none;
+}
+#result-to-do-list {
+  list-style: none;
+}
+
+body {
+  background-color: lightgreen;
+  font-style: italic;
+  font-family: cursive;
+}
+
+.jumbotron  {
+  color: purple;
+  text-align: center;
+}
+
+.to-do-list , .accomplished {
+  display: none;
+}
